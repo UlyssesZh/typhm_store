@@ -1,0 +1,25 @@
+title: offset_wizard
+musicAuthor: Ulysses
+beatmapAuthor: Ulysses
+difficulty: 1
+start: 0.0
+end: 32000.0
+---
+0 millisecondsPerPixel 16
+1000 \s 0
+3000 \s 0
+5000 \s 0
+7000 \s 0
+9000 \s 0
+11000 \s 0
+13000 \s 0
+15000 \s 0
+16000 newLine
+17000 \s 0
+19000 \s 0
+21000 \s 0
+23000 \s 0
+25000 \s 0
+27000 \s 0
+29000 \s 0
+31000 \s 0
