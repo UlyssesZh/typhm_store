@@ -48,7 +48,7 @@ allowing all people to download the audio file through the link.
 
 In other cases, the artist do not provide you with a link but just the audio file.
 Then, you have to upload the audio file to this repo (typhm_store)
-and specify `audioUrl` through [jsDelivr](https://www.jsdelibr.com/).
+and specify `audioUrl` through [jsDelivr](https://www.jsdelivr.com/).
 Tell him/her that this means making the audio file public on GitHub
 and allowing all people to download it.
 
