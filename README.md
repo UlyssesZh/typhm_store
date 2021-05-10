@@ -77,7 +77,9 @@ that allows you to use it without contacting the artist.
 
 | Filename | Artist | Title | Uploaded | License | Contacted |
 | --- | --- | --- | --- | --- | --- |
-| AhVousDiraiJeMaman | W. A. Mozart (Composer) & S. Ligoratti (Player) | [12 Variations on "Ah, vous dirai-je maman", K.265/300e] | No | CC BY 3.0 | No | 
+| AhVousDiraiJeMaman | W. A. Mozart (Composer) & S. Ligoratti (Player) | [12 Variations on "Ah, vous dirai-je maman", K.265/300e] | No | CC BY 3.0 | No |
+| GOODRAGE | EBIMAYO | [GOODRAGE] | No | CC BY-NC | No |
 | offset_wizard | Ulysses | offset_wizard | Yes | CC0 1.0 | Yes |
 
 [12 Variations on "Ah, vous dirai-je maman", K.265/300e]: https://imslp.org/wiki/12_Variations_on_%22Ah,_vous_dirai-je_maman%22,_K.265/300e_(Mozart,_Wolfgang_Amadeus)
+[GOODRAGE]: https://ab-sounds.com/
