@@ -96,7 +96,7 @@ You and the artist should reach an agreement upon this.
 
 ### How can I state the license of the music I use
 
-You should include the information in the [table](#list-of-music-for-published-beatmaps).
+You should include the information in the [list of music](#list-of-music).
 
 Again, you should reach an agreement with the artist on
 which license to create a beatmap for the music
