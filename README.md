@@ -2,7 +2,30 @@
 
 This is the official repository of the published Typhm beatmaps.
 
-## Notices
+## Notices for beatmap users
+
+### Why cannot I play a beatmap
+
+Since most pieces of music used by beatmaps are specified using URL
+whose domain is different from ulysseszh.github.io,
+and it does not allow ulysseszh.github.io to get access to resources on it,
+you may meet problems when trying to play such beatmaps according to the
+[same-origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy).
+To circumvent this problem, you have to install plugins to modify the browser
+you use to force it to allow accessing to resources from various origins.
+One of the recommendations is
+[Moesif Origin & CORS Changer](https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc)
+(a chrome extension).
+Note that forcing Cross-Origin Resources Sharing (CORS) can
+make your computer potentially vulnerable to network attacks,
+so only enable forcing CORS
+when you trust the source of the music for the beatmap you are playing
+and disable forcing CORS after you finish playing.
+
+In the [list of music](#list-of-music),
+whether a music is public resource (thus available without forcing CORS) is indicated.
+
+## Notices for beatmap creators
 
 ### How to create a beatmap
 
@@ -58,6 +81,8 @@ it probably means that **its artist does not want to make it public**.
 However, attaching the download link here or
 uploading the audio file to this repo (typhm_store)
 means making it availble for the public to download.
+Whether the audio file is uploaded to this repo is
+indicated in the [list of music](#list-of-music).
 Therefore, what you need to do in this case is to contact the artist,
 tell him/her about this situation, and **ask for his/her permission**.
 You may offer to **add a license for the music** so that the uploaded music
@@ -73,13 +98,33 @@ which license to create a beatmap for the music
 if the original music is not licensed with a license
 that allows you to use it without contacting the artist.
 
-## List of music for published beatmaps
+## List of music
 
-| Filename | Artist | Title | Uploaded | License | Contacted |
+Not including [offset_wizard](https://github.com/UlyssesZh/typhm_store/blob/master/offset_wizard.typhm).
+
+The list items:
+- Artist(s):
+The artist(s) (music author(s)).
+Should be the same as specified in beatmaps.
+- Title:
+The title of the music.
+Can be different from as specified in beatmaps when the beatmap
+only includes part of the original music.
+- Source:
+Where the music can be found.
+- Public:
+Whether the audio file can be accessed without forcing CORS.
+See the [notice above](#why-cannot-i-play-a-beatmap).
+- Uploaded:
+Whether the audio file is uploaded to this repo.
+- License:
+What the license of the music is.
+- Contacted:
+Whether the beatmap author has already contacted the artist of the music.
+- Beatmap(s):
+The list of beatmaps using the music.
+
+| Artist(s) | Title | Source | Public | Uploaded | License | Contacted | Beatmap(s) |
 | --- | --- | --- | --- | --- | --- |
-| AhVousDiraiJeMaman | W. A. Mozart (Composer) & S. Ligoratti (Player) | [12 Variations on "Ah, vous dirai-je maman", K.265/300e] | No | CC BY 3.0 | No |
-| GOODRAGE | EBIMAYO | [GOODRAGE] | No | CC BY-NC | No |
-| offset_wizard | Ulysses | offset_wizard | Yes | CC0 1.0 | Yes |
-
-[12 Variations on "Ah, vous dirai-je maman", K.265/300e]: https://imslp.org/wiki/12_Variations_on_%22Ah,_vous_dirai-je_maman%22,_K.265/300e_(Mozart,_Wolfgang_Amadeus)
-[GOODRAGE]: https://ab-sounds.com/
+| W. A. Mozart (Composer) & S. Ligoratti (Player) | 12 Variations on "Ah, vous dirai-je maman" | [IMSLP](https://imslp.org/wiki/12_Variations_on_%22Ah,_vous_dirai-je_maman%22,_K.265/300e_%28Mozart,_Wolfgang_Amadeus%29) | Yse | No | CC BY 3.0 | No | AhVousDiraiJeMaman |
+| EBIMAYO | GOODRAGE | [AB-Sounds](https://ab-sounds.com/bms/) | No | No | CC BY-NC | No | GOODRAGE |
