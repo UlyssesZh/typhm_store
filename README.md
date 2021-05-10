@@ -4,6 +4,11 @@ This is the official repository of the published Typhm beatmaps.
 
 ## Notices for beatmap users
 
+### How to play a beatmap in the game
+
+Select "Browse store" and type in the filename of the beatmap you find here (without extension).
+See the [README of Typhm](https://github.com/UlyssesZh/typhm#playing-through-browsing-the-store).
+
 ### Why cannot I play a beatmap
 
 Since most pieces of music used by beatmaps are specified using URL
@@ -125,6 +130,6 @@ Whether the beatmap author has already contacted the artist of the music.
 The list of beatmaps using the music.
 
 | Artist(s) | Title | Source | Public | Uploaded | License | Contacted | Beatmap(s) |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | W. A. Mozart (Composer) & S. Ligoratti (Player) | 12 Variations on "Ah, vous dirai-je maman" | [IMSLP](https://imslp.org/wiki/12_Variations_on_%22Ah,_vous_dirai-je_maman%22,_K.265/300e_%28Mozart,_Wolfgang_Amadeus%29) | Yse | No | CC BY 3.0 | No | AhVousDiraiJeMaman |
 | EBIMAYO | GOODRAGE | [AB-Sounds](https://ab-sounds.com/bms/) | No | No | CC BY-NC | No | GOODRAGE |
