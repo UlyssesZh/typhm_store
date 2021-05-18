@@ -133,3 +133,4 @@ The list of beatmaps using the music.
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | W. A. Mozart (Composer) & S. Ligoratti (Player) | 12 Variations on "Ah, vous dirai-je maman" | [IMSLP](https://imslp.org/wiki/12_Variations_on_%22Ah,_vous_dirai-je_maman%22,_K.265/300e_%28Mozart,_Wolfgang_Amadeus%29) | Yse | No | CC BY 3.0 | No | AhVousDiraiJeMaman |
 | EBIMAYO | GOODRAGE | [AB-Sounds](https://ab-sounds.com/bms/) | No | No | CC BY-NC | No | GOODRAGE |
+| Scott Holmes Music | Stomps and Claps | [Free Music Archive](https://freemusicarchive.org/music/Scott_Holmes/media-music-mix/stomps-and-claps) | No | No | CC BY-NC 4.0 | No | StompsAndClaps |
